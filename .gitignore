@@ -2,3 +2,7 @@
 git status
 db.txt
 ^C
+
+filelar/*
+
+!filelar/file1.html
